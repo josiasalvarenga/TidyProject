@@ -5,6 +5,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 ## Files submitted:
 * CodeBook.md - A code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 * run_analysis.R - One R script that performs the following:
+##
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
