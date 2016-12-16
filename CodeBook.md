@@ -20,16 +20,25 @@ Based on the instructions provided, the script extracts, downloads and unzips th
 
 ## Variables
 x_train - source training data from original file
+
 y_train - source training data from original file
+
 subject_train - source training data from original file
+
 x_test - source test data from original file
+
 y_test - source test data from original file
+
 subject_test - source test data from original file
+
 features - source features data from original file
+
 activity_labels - source activity labels data from original file
 
 merged_train - all source training data merged in a new data set
+
 merged_test - all source test data merged in a new data set
+
 merged_dataset - training and test data merged in a new data set
 
 mean_and_std_deviation_set - mean and standard deviation taken from merged_dataset and stored in a new data set
